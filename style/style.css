@@ -536,7 +536,7 @@ html {
   width: 2rem;
   height: 2rem;
   border-radius: 50%;
-  background: rgba(129, 129, 139, 0.1) url("/img/why/ticket.svg") center no-repeat;
+  background: rgba(129, 129, 139, 0.1) url("../img/why/ticket.svg") center no-repeat;
 }
 
 .advantages {
